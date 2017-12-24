@@ -1,2 +1,1 @@
-This is THE FUDUEST  python based focused crawler YOU WILL EVER SEE IN YOUR LIFE....
-
+This projects comprise of a generic web-crawler that crawl and scrape data of Indian Academicians, practicing teaching in foreign university, from web pages of foreign universities. Web Crawler is so designed so as to be flexible, robust, frugal and to respect and follow the standard conventions for robot exclusion. It uses intelligent crawling technique to prevent the overburdening of a server and to serve our use-case in best possible manner. Further, It uses Vector Space Model for ranking the web pages according to their relevance and uses Machine learning paradigm based, Rocchio feedback, to further improve relevance of rankings.
